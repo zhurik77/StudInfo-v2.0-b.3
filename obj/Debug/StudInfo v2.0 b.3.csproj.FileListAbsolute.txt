@@ -1,0 +1,27 @@
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csprojAssemblyReference.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\MainWindow.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\App.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3_Content.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.lref
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudentDB.mdf
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudentDB_log.ldf
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudInfo v2.0 b.3.exe.config
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudInfo v2.0 b.3.exe
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.dll
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.xml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Adding_Student_Window.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\MainWindow.baml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Adding_Student_Window.baml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.g.resources
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo_v2._0_b._3.Properties.Resources.resources
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csproj.GenerateResource.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csproj.CoreCompileInputs.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csproj.CopyComplete
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.exe
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Edit_Student_Window.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Edit_Student_Window.baml
