@@ -112,7 +112,6 @@ namespace StudInfo_v2._0_b._3
                         db.SaveChanges();
                         MessageBox.Show("Студент успешно удален", "StudInfo v2.0 b.3");
                         break;
-                    
                 }
                 
             }

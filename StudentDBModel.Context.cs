@@ -26,5 +26,7 @@ namespace StudInfo_v2._0_b._3
         }
     
         public virtual DbSet<Student> Students { get; set; }
+        public virtual DbSet<Dnevnik> Dnevniks { get; set; }
+        public virtual DbSet<Dnevnik_ConnectTable> Dnevnik_ConnectTable { get; set; }
     }
 }
